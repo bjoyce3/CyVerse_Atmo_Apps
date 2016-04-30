@@ -14,11 +14,13 @@ apt-get autoremove
 
 ###Set up directory on root for imaging downstream###
 cd /
-sudo mkdir tools
+sudo mkdir bioninformatic_tools
 
 ###Start installation of packages needed for analyses###
 
 #Trinity package
+wget ""
+
 
 #Trinoate package
 wget "https://github.com/Trinotate/Trinotate/archive/v3.0.0.tar.gz" &
